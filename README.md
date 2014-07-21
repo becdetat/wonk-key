@@ -11,3 +11,8 @@ This first revision of wonk-key is an [AutoHotKey](http://www.autohotkey.com) sc
 
 ![](http://i.imgur.com/Mu84nyd.png)
 
+
+## And now a macro recorder
+
+Key interception is ripped from [Carnac the Magnificent Keyboard Utility](https://github.com/Code52/carnac) which is [licensed under MS-PL](https://raw.githubusercontent.com/Code52/carnac/master/LICENSE.md).
+
